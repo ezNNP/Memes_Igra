@@ -1,0 +1,14 @@
+//TileName - xPos on TileSheet.png - yPos on TileSheet.png - number
+background-0-0-             0
+horWall-1-0-                1
+verWall-2-0-                2
+upLeftCorner-3-0-           3
+upRightCorner-4-0-          4
+downLeftCorner-3-1-         5
+downRightCorner-4-1-        6
+redFlag-0-1-                7
+blueFlag-1-1-               8
+troinikUpDownRight-0-2-     9
+troinikUpDownLeft-1-2-      10
+troinikLeftRightDown-2-2-   11
+troinikLeftRightUp-3-2-     12
